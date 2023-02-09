@@ -24,7 +24,7 @@ public class Nilai {
         } else{
             nilaiAkhir = 0.2 * nilaiAsli;
         }
-        // Output
+        // Output.
         System.out.printf("%s mendapatkan nilai akhir %f", nama, nilaiAkhir);
         sc.close();
     }
